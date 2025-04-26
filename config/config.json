@@ -1,14 +1,14 @@
 {
   "bot": {
-    "prefix": ".",
+    "prefix": "-",
     "listenEvents": true,
     "selfListen": false,
     "forceLogin": true,
     "botName": "NexaSim V2",
     "ownerName": "Hridoy",
-    "ownerUid": "61552837791926",
+    "ownerUid": "61572797678150",
     "adminUids": [
-      "61552837791926"
+      "61572797678150"
     ],
     "login": {
       "username": "bossbayjid14@gmail.com",
